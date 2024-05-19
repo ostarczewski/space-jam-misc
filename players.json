@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Sylvester",
+		"per": "28.93983939076786",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/sylvester.png"
+	},
+	{
+		"name": "Marvin the Martian",
+		"per": "20.48176310507947",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/marvinthemartian.png"
+	},
+	{
+		"name": "Road Runner",
+		"per": "23.441942326762334",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/roadrunner.png"
+	},
+	{
+		"name": "Foghorn Leghorn",
+		"per": "27.343853057425452",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/foghornleghorn.png"
+	},
+	{
+		"name": "Bugs Bunny",
+		"per": "28.55699083942034",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/bugsbunny.png"
+	},
+	{
+		"name": "Elmer Fudd",
+		"per": "23.725618292523496",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/elmerfudd.png"
+	},
+	{
+		"name": "Lola Bunny",
+		"per": "37.651662096281186",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/lolabunny.png"
+	},
+	{
+		"name": "Porky Pig",
+		"per": "22.787656324213376",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/porkypig.png"
+	},
+	{
+		"name": "Tasmanian Devil",
+		"per": "15.552516655970233",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/tasmaniandevil.png"
+	},
+	{
+		"name": "Gossamer",
+		"per": "26.499056246202688",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/gossamer.png"
+	},
+	{
+		"name": "Granny",
+		"per": "25.944331105449113",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/granny.png"
+	},
+	{
+		"name": "Wile E. Coyote",
+		"per": "30.038610133474034",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/wileecoyote.png"
+	},
+	{
+		"name": "Tweety",
+		"per": "26.180805043528085",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/tweety.png"
+	},
+	{
+		"name": "Penelope",
+		"per": "17.19144015544759",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/penelope.png"
+	},
+	{
+		"name": "Daffy Duck",
+		"per": "27.87310974058234",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/daffyduck.png"
+	},
+	{
+		"name": "Yosemite Sam",
+		"per": "0",
+		"imgUrl": "https://sjanlassets.blob.core.windows.net/assets/yosemitesam.png"
+	}
+]
